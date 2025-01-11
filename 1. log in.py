@@ -9,6 +9,7 @@ import pygame
 import random
 
 
+
 # Connect to SQLite
 conn = sqlite3.connect("zen_zone.db")
 
